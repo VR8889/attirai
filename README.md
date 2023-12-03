@@ -23,7 +23,11 @@ This implementation is limited is requires further substantial development to le
 3) Revery.ai: This startup is pioneering in creating an online dressing room experience using computer vision and artificial intelligence. They process over a million garments weekly using existing catalog images, a scale previously challenging for virtual dressing rooms. Revery.ai stands out by using deep learning and computer vision for a more realistic drape of clothing and allows users to customize their clothing model to better resemble their appearance, including skin tone and hair styles. Their technology has shown to significantly increase conversion rates, with reports of a 380% increase in an A/B test for Zalora. Chosen for the demo in Ventureton.
 
 ## Demo for proof of concept
-https://attirai-meta.web.app/main
+Disclaimer: The deployed Demo to showcase idea is using Revery AI API. Conducted research showed that developing an implementation on the basis on TryOn model will take more time than we were having during hackathon. 
+<img width="759" alt="image" src="https://github.com/VR8889/attirai/assets/8280427/831c0c44-10ab-4ddf-b5a0-9eeb8bf45c04">
+
+*Website*: https://attirai-meta.web.app/main
+Video screencast: <a Demo 1 href = 'https://youtu.be/aiA3NT9ZZCM'>
 
 
 ## Development server
