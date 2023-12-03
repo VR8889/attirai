@@ -6,6 +6,20 @@ Previous versrion of the project: https://github.com/mrpejker/attirai
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
+## R&D: AI Models considered
+The AI technologies that allow for the best fitting of outfits in photos, videos, or 3D models of the user include the following:
+- Form-fitting algorithms: These AI algorithms create an accurate model of customers' bodies by utilizing information gathered from consumers as well as items to match the product to the person
+- Image-recognition algorithms: These algorithms help to recognize objects within a picture to detect what a person looks like, enabling the virtual try-on of clothes and the recognition of body shapes and sizes
+- Generative AI models: Generative AI models can produce life-like portrayals of clothing on people, taking into account details such as how the clothing drapes, folds, clings, stretches, and wrinkles. This technology generates high-quality, realistic images of the person wearing the garment
+- Body scanning and virtual try-on solutions: AI-powered body scanning and virtual try-on solutions can digitally measure customers' bodies with unmatched accuracy, allowing for the generation of realistic 3D models that accurately represent their body type
+
+Fitting Models tried:
+
+1) TryOnDiffusion by Google Research https://tryondiffusion.github.io/
+This implementation is limited is requires further substantial development to leverage proposed AI technologies to enhance the online shopping experience and address common pain points in e-commerce (doesn't work effective on big volumes of images, requires re-training on the brands' data input).
+
+
+
 
 
 ## Development server
