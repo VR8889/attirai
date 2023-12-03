@@ -18,6 +18,9 @@ Fitting Models tried:
 1) TryOnDiffusion by Google Research https://tryondiffusion.github.io/
 This implementation is limited is requires further substantial development to leverage proposed AI technologies to enhance the online shopping experience and address common pain points in e-commerce (doesn't work effective on big volumes of images, requires re-training on the brands' data input).
 
+2) Zeekit's latest technology is  not open for general audience. It's built on a combination of real-time image processing, computer vision, deep learning, and other AI technologies to provide a virtual fitting room experience for online shoppers. The platform allows users to virtually "try on" clothing when shopping online by leveraging a simulation that takes into account body dimensions, fit, size, and even the fabric of the garment itself. Acquired by Walmart.
+
+3) Revery.ai: This startup is pioneering in creating an online dressing room experience using computer vision and artificial intelligence. They process over a million garments weekly using existing catalog images, a scale previously challenging for virtual dressing rooms. Revery.ai stands out by using deep learning and computer vision for a more realistic drape of clothing and allows users to customize their clothing model to better resemble their appearance, including skin tone and hair styles. Their technology has shown to significantly increase conversion rates, with reports of a 380% increase in an A/B test for Zalora. Chosen for the demo in Ventureton.
 
 
 
