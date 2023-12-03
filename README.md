@@ -27,7 +27,7 @@ Disclaimer: The deployed Demo to showcase idea is using Revery AI API. Conducted
 <img width="759" alt="image" src="https://github.com/VR8889/attirai/assets/8280427/831c0c44-10ab-4ddf-b5a0-9eeb8bf45c04">
 
 *Website*: https://attirai-meta.web.app/main
-Video screencast: [Demo 1] ('https://youtu.be/197bk9e9kOg'), [Demo 2] ('https://youtu.be/aiA3NT9ZZCM')
+Video screencast: [Demo 1](https://youtu.be/197bk9e9kOg), [Demo 2](https://youtu.be/aiA3NT9ZZCM)
 
 
 
