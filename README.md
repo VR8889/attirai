@@ -21,6 +21,8 @@ This implementation is limited is requires further substantial development to le
 2) Zeekit's latest technology is  not open for general audience. It's built on a combination of real-time image processing, computer vision, deep learning, and other AI technologies to provide a virtual fitting room experience for online shoppers. The platform allows users to virtually "try on" clothing when shopping online by leveraging a simulation that takes into account body dimensions, fit, size, and even the fabric of the garment itself. Acquired by Walmart.
 
 3) Revery.ai: This startup is pioneering in creating an online dressing room experience using computer vision and artificial intelligence. They process over a million garments weekly using existing catalog images, a scale previously challenging for virtual dressing rooms. Revery.ai stands out by using deep learning and computer vision for a more realistic drape of clothing and allows users to customize their clothing model to better resemble their appearance, including skin tone and hair styles. Their technology has shown to significantly increase conversion rates, with reports of a 380% increase in an A/B test for Zalora. Chosen for the demo in Ventureton.
+   
+4) A pre-trained on VITON dataset model which is a combination of pose parsers with Adaptive Content Generating and Preserving Network (ACGPN). The pose parser gave a really decent result whereas the cloth transfering model lacks generalisation power.
 
 ## Demo for proof of concept
 Disclaimer: The deployed Demo to showcase idea is using Revery AI API. Conducted research showed that developing an implementation on the basis on TryOn model will take more time than we were having during hackathon. 
